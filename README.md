@@ -1,6 +1,6 @@
 # Image Encryption with DES
 
-The script converts an image into bytes, encrypts it using DES in both modes, and then saves and displays the encrypted images.
+The script converts an image into bytes, encrypts it using DES in both ECB mode and OFB mode, and then saves and displays the encrypted images.
 
 ## Concepts
 
